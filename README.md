@@ -1,4 +1,4 @@
-<img align="right" height="670em" src="https://raw.githubusercontent.com/gist/EwerthonOl/3a86a04586956051e750c9973661a4af/raw/759b225feb5f92ae81df028b10fb88abdf9bcd43/githubCard.svg"/>
+<img align="right" height="660em" src="https://raw.githubusercontent.com/gist/EwerthonOl/3a86a04586956051e750c9973661a4af/raw/759b225feb5f92ae81df028b10fb88abdf9bcd43/githubCard.svg"/>
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, sou Ewerthon Oliveira</h1>
 
