@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EwerthonOl/3a86a04586956051e750c9973661a4af/raw/759b225feb5f92ae81df028b10fb88abdf9bcd43/githubCard.svg"/>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/EwerthonOl/3a86a04586956051e750c9973661a4af/raw/759b225feb5f92ae81df028b10fb88abdf9bcd43/githubCard.svg"/>
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, sou Ewerthon Oliveira</h1>
 
@@ -32,6 +32,7 @@
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular-material)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=1572B6)&nbsp;
+![Prime Faces](https://img.shields.io/badge/-Prime%20Faces-05122A?style=flat&logo=prime-faces)&nbsp;
 
 <br>
 
